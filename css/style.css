@@ -8,3 +8,13 @@ body {
 	font-size: 30px;
 	font-family: 'Henny Penny', cursive;
 }
+
+
+li:before {    
+	font-family: 'FontAwesome';
+	content: '\f067';
+	margin-left: 40px;
+	margin:0 5px 0 -15px;
+	margin-left: 40px;
+	color: #f00;
+}
